@@ -27,7 +27,7 @@ Aplikasi CRUD (Create, Read, Update, Delete) untuk mengelola data kategori buku 
 
 2. Pindahkan folder ke direktori htdocs XAMPP:
 
-       C:/xampp/htdocs/uts-pemrograman-web-2-60324051/
+       C:/xampp/htdocs/uts_60324051/
 
 3. Buka phpMyAdmin di browser: http://localhost/phpmyadmin
 4. Buat database baru dengan nama: uts_perpustakaan_60324051
