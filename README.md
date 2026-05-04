@@ -23,7 +23,7 @@ Aplikasi CRUD (Create, Read, Update, Delete) untuk mengelola data kategori buku 
 ### Langkah Instalasi
 1. Clone repository ini:
 
-       git clone https://github.com/[username]/uts-pemrograman-web-2-60324051.git
+       git clone https://github.com/muhammadabidazhar24051-sketch/uts-pemrograman-web-2-60324051.git
 
 2. Pindahkan folder ke direktori htdocs XAMPP:
 
