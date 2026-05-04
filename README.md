@@ -58,4 +58,4 @@ Aplikasi CRUD (Create, Read, Update, Delete) untuk mengelola data kategori buku 
 - Notifikasi sukses/error setiap operasi
 
 ## Link Repository
-https://github.com/[username]/uts-pemrograman-web-2-60324051
+(https://github.com/muhammadabidazhar24051-sketch/uts-pemrograman-web-2-60324051.git)
