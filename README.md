@@ -43,7 +43,7 @@ Aplikasi CRUD (Create, Read, Update, Delete) untuk mengelola data kategori buku 
     uts-pemrograman-web-2-60324051/
     ├── config/
     │   └── database.php
-    ├── uts_perpustakaan_60324051.sql
+    ├── database_backup.sql
     ├── index.php
     ├── create.php
     ├── edit.php
